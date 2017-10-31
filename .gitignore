@@ -4,3 +4,4 @@
 *.ipr
 /build
 /out
+/.gradle
